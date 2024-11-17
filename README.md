@@ -7,6 +7,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
+  - [Todo](#todo)
   - [Installation](#installation)
 
 ## Introduction
@@ -16,6 +17,12 @@ Welcome to **Transcriber**! This project aims to transcribe audio from YouTube V
 - Feature 2: Strip the Audio from Video
 - Feature 3: Transcribe Audio to a text file 
 - Feature 4: Different Language support 
+
+## Todo
+
+- Feature 1: Add Vosk model 
+
+
 
 ## Installation
 To get started with **Tanscriber**, follow these steps:
