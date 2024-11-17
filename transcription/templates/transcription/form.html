@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Transcribe YouTube Video</title>
+</head>
+<body>
+    <h1>Transcribe YouTube Video</h1>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Transcribe</button>
+    </form>
+</body>
+</html>
