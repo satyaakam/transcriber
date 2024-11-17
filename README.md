@@ -12,9 +12,10 @@
 ## Introduction
 Welcome to **Transcriber**! This project aims to transcribe audio from YouTube Videos , this was done as a quick hack while sitting at the Pydelhi.org x Django India meetup , hope to expand this in near future  [specific problem] by providing [solution]. It is built using [technologies] and is designed to be [scalable, efficient, user-friendly, etc.].
 ## Features
-- Feature 1: Description of feature 1
-- Feature 2: Description of feature 2
-- Feature 3: Description of feature 3
+- Feature 1: Download Video
+- Feature 2: Strip the Audio from Video
+- Feature 3: Transcribe Audio to a text file 
+- Feature 4: Different Language support 
 
 ## Installation
 To get started with **Tanscriber**, follow these steps:
